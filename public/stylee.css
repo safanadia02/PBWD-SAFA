@@ -1,0 +1,19 @@
+h1{
+    text-align: center;
+    justify-content: center;
+}
+
+table{
+    margin-left: 500px;
+    border: 1px solid black;
+    text-align: start;
+    padding: 30px;
+    text-align: left;
+}
+
+.simpan{
+    width: 100%;
+    padding: 5px;
+    border-radius: 5px;
+    background-color: aqua;
+}

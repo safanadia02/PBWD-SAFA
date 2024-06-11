@@ -1,0 +1,30 @@
+.judul2 {
+    color: blue;
+    font-style: oblique;
+    font-size: 50px;
+}
+
+.teks {
+    text-align: justify;
+}
+body {
+    padding: 8px 20px;
+}
+.thead {
+    color: pink;
+    background: #000;
+    text-align: center;
+}
+
+.tbody {
+    color: black;
+    background-color: pink;
+}
+.simpan {
+    width: 100%;
+    background-color: plum;
+}
+.form {
+    font-style: oblique;
+    color: pink;
+}
